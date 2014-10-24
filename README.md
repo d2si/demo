@@ -1,4 +1,4 @@
-demo
+D2SI
 ====
 
-Demo repository
+This is our demo repository.
